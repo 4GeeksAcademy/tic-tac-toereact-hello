@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Strike () {
+const Strike = () => {
     return(
         <div></div>
     )

@@ -3,8 +3,7 @@ import TicTacToe from "./TicTacToe"
 
 
 
-
-function Home() {
+const Home = () => {
 	return (
 		<div>
 			<TicTacToe />
